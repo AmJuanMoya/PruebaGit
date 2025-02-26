@@ -1,0 +1,12 @@
+
+    Este es el archivo 2
+------------------------
+
+
+TITULO DEL ARCHIVO
+
+-contenido
+-contenido 2
+
+--------------
+pie de pagina
