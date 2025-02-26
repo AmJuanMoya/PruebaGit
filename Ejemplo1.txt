@@ -6,3 +6,7 @@
 
 
   Esta es la descripcion del documento(Descripcion 1)
+
+  -----------------------------------------------
+
+  Pie de
