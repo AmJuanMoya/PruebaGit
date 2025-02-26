@@ -3,7 +3,7 @@
 ------------------------
 
 
-TITULO DEL ARCHIVO
+TITULO DEL DOCUMENTO
 
 -contenido
 -contenido 2
