@@ -10,3 +10,4 @@
   -----------------------------------------------
 
   Este es el Pie de pagina
+  -Edicion, din de pagina
