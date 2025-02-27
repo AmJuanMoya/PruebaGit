@@ -11,3 +11,7 @@
 
   Este es el Pie de pagina
   -Edicion, din de pagina
+
+----------------------------------------------
+
+Esto es una prueba de integracion de GitHub y Jira.
